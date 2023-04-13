@@ -1,7 +1,7 @@
 FROM ubuntu:21.04
 
 LABEL org.label-schema.license="LGPL-3.0" \
-      org.label-schema.vcs-url="https://github.com/iambaim/bioticexplorer-docker" \
+      org.label-schema.vcs-url="https://github.com/DeepWaterIMR/bioticexplorer-docker" \
       org.label-schema.vendor="Institute of Marine Research, Norway"
 
 ENV IDX_PATH=/data/dbIndex.rda
